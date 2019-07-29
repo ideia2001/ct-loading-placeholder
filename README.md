@@ -1,5 +1,5 @@
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://github.com/conectate/ct-loading-placeholder)
-[![Published on webcomponents.org](https://badge.fury.io/js/%40conectate%2Fct-loading-placeholder.svg)](https://badge.fury.io/js/%40conectate%2Fct-loading-placeholder.svg)
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/@conectate/ct-loading-placeholder)
+[![NPM](https://badge.fury.io/js/%40conectate%2Fct-loading-placeholder.svg)](https://badge.fury.io/js/%40conectate%2Fct-loading-placeholder.svg)
 [![GitHub version](https://badge.fury.io/gh/conectate%2Fct-loading-placeholder.svg)](https://badge.fury.io/gh/conectate%2Fct-loading-placeholder)
 [![Known Vulnerabilities](https://snyk.io/test/github/conectate/ct-loading-placeholder/badge.svg?targetFile=package.json)](https://snyk.io/test/github/conectate/ct-loading-placeholder?targetFile=package.json)
 
@@ -29,7 +29,7 @@ import '@conectate/ct-loading-placeholder/ct-loading-placeholder';
 
 ### Use in your HTML
 ```html
-<loading-placeholder style="width:200px;height:200px;"></loading-placeholder>
+<ct-loading-placeholder style="height:24px;width:100px;border-radius: 16px;"></ct-loading-placeholder>
 ```
 
 ### Styling
@@ -38,6 +38,10 @@ Custom property | Description | Default
 ----------------|-------------|---------
 `--loading-placeholder-color-1` | Primary color for animation | `#E0E0E0`
 `--loading-placeholder-color-2` | Secondary color for animation | `#C0C0C0`
+
+## Demo
+
+[![Demo](https://raw.githubusercontent.com/Conectate/ct-loading-placeholder/master/demo/ct-loading-placeholder.gif)](https://raw.githubusercontent.com/Conectate/ct-loading-placeholder/master/demo/ct-loading-placeholder.gif)
 
 
 ## Follow me

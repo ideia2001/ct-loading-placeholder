@@ -1,6 +1,6 @@
 {
   "name": "@conectate/ct-loading-placeholder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Is a simple element to use skeleton loading such as Facebook.",
   "main": "ct-loading-placeholder.js",
   "license": "BSD-3-Clause",
